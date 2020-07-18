@@ -1,0 +1,50 @@
+[
+  {
+    "id": "3d892ed7-f7c1-4c14-8a05-fd214000de39",
+    "data": [
+      {
+        "text": "When do you close ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "77d84303-e8f1-4de2-bdd0-c3fe689347bd",
+    "data": [
+      {
+        "text": "Are you open today ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d1b3d86-067d-402b-a5fa-6a418154d765",
+    "data": [
+      {
+        "text": "Are you open right now ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7b5fad1-7b4f-422b-8510-5566a4474bf3",
+    "data": [
+      {
+        "text": "What time do you open ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
